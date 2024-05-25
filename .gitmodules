@@ -7,3 +7,6 @@
 [submodule "Projet-4-ML-supervise"]
 	path = Projet-4-ML-supervise
 	url = https://github.com/LucasData13/ML-supervise-data_p4.git
+[submodule "Projet-5-Segmentation-clients"]
+	path = Projet-5-Segmentation-clients
+	url = https://github.com/LucasData13/Segmentation-clients-data_p5.git
