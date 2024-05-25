@@ -1,3 +1,6 @@
 [submodule "Projet-2-Analyse-exploratoire"]
 	path = Projet-2-Analyse-exploratoire
 	url = https://github.com/LucasData13/Analyse-exploratoire-data_p2.git
+[submodule "Projet-3-Analyse-multivari-e"]
+	path = Projet-3-Analyse-multivari-e
+	url = https://github.com/LucasData13/Analyse-multivari-e-data_p3.git
