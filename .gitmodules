@@ -10,3 +10,6 @@
 [submodule "Segmentation-clients-data_p5"]
 	path = Segmentation-clients-data_p5
 	url = https://github.com/LucasData13/Segmentation-clients-data_p5.git
+[submodule "Deep-learning-data_p6"]
+	path = Deep-learning-data_p6
+	url = https://github.com/LucasData13/Deep-learning-data_p6.git
