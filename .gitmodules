@@ -13,3 +13,6 @@
 [submodule "Deep-learning-data_p6"]
 	path = Deep-learning-data_p6
 	url = https://github.com/LucasData13/Deep-learning-data_p6.git
+[submodule "MLOps-data_p7"]
+	path = MLOps-data_p7
+	url = https://github.com/LucasData13/MLOps-data_p7.git
