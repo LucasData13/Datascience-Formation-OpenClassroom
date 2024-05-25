@@ -1,0 +1,3 @@
+[submodule "projet_analyse"]
+	path = projet_analyse
+	url = https://github.com/LucasData13/Analyse-exploratoire-data_p2.git
