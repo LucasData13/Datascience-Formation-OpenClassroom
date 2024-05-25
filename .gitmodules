@@ -1,18 +1,3 @@
-[submodule "Analyse-exploratoire-data_p2"]
-	path = Analyse-exploratoire-data_p2
+[submodule "Projet-2-Analyse-exploratoire"]
+	path = Projet-2-Analyse-exploratoire
 	url = https://github.com/LucasData13/Analyse-exploratoire-data_p2.git
-[submodule "Analyse-multivari-e-data_p3"]
-	path = Analyse-multivari-e-data_p3
-	url = https://github.com/LucasData13/Analyse-multivari-e-data_p3.git
-[submodule "ML-supervise-data_p4"]
-	path = ML-supervise-data_p4
-	url = https://github.com/LucasData13/ML-supervise-data_p4.git
-[submodule "Segmentation-clients-data_p5"]
-	path = Segmentation-clients-data_p5
-	url = https://github.com/LucasData13/Segmentation-clients-data_p5.git
-[submodule "Deep-learning-data_p6"]
-	path = Deep-learning-data_p6
-	url = https://github.com/LucasData13/Deep-learning-data_p6.git
-[submodule "MLOps-data_p7"]
-	path = MLOps-data_p7
-	url = https://github.com/LucasData13/MLOps-data_p7.git
