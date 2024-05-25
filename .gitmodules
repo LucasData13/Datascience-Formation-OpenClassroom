@@ -4,3 +4,6 @@
 [submodule "Analyse-multivari-e-data_p3"]
 	path = Analyse-multivari-e-data_p3
 	url = https://github.com/LucasData13/Analyse-multivari-e-data_p3.git
+[submodule "ML-supervise-data_p4"]
+	path = ML-supervise-data_p4
+	url = https://github.com/LucasData13/ML-supervise-data_p4.git
